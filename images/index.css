@@ -34,3 +34,15 @@ header {
     min-width: 500px;
     justify-content: space-evenly;
 }
+
+.nav_bar a {
+    letter-spacing: .3px;
+    font-size: 14px;
+    color: #282c3f;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 28px 0;
+     border-bottom: 4px solid #ffffff;
+    
+}
