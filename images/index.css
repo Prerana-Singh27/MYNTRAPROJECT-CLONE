@@ -96,3 +96,6 @@ header {
 .banner_container {
    margin: 40px 0;
 }
+.banner_image {
+    width: 100%;
+}
