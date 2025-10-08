@@ -131,3 +131,9 @@ header {
     flex-direction: column;
  }
 
+ .footer_column h3 {
+    color: #282c3f;
+    font-size: 14px;
+    
+    margin-bottom: 25px;
+ }
